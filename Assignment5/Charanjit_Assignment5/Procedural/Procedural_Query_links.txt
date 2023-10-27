@@ -1,0 +1,8 @@
+http://webapp.computing.clemson.edu/~charans/PHP%20Queries/Procedural/q1.php
+http://webapp.computing.clemson.edu/~charans/PHP%20Queries/Procedural/q2.php
+http://webapp.computing.clemson.edu/~charans/PHP%20Queries/Procedural/q3.php
+http://webapp.computing.clemson.edu/~charans/PHP%20Queries/Procedural/q4.php
+http://webapp.computing.clemson.edu/~charans/PHP%20Queries/Procedural/q5.php
+http://webapp.computing.clemson.edu/~charans/PHP%20Queries/Procedural/q6.php
+http://webapp.computing.clemson.edu/~charans/PHP%20Queries/Procedural/q7.php
+http://webapp.computing.clemson.edu/~charans/PHP%20Queries/Procedural/q8.php
